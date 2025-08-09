@@ -1,49 +1,102 @@
-# Hello! I'm Vishal 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</div>
 
-## About Me
-I am a passionate Full Stack Web Developer and Software Engineer with a strong foundation in building dynamic web applications. My journey in tech has been fueled by a love for problem-solving and a keen interest in the latest technologies, particularly in the realm of AI and machine learning.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Learning+Advanced+React;Exploring+AI/ML&center=true&width=380&height=45">
+</div>
 
-## Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">A passionate Full Stack Developer & DSA Practitioner from India</h3>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  
+  🔭 I'm currently working on **Full Stack Projects & DSA**
+  
+  🌱 I'm currently learning **Advanced React** and exploring **AI/ML**
+  
+  💻 I solve problems on **LeetCode** to improve my algorithmic thinking
+  
+  💬 Ask me about **React, Node.js, MongoDB, DSA**
+  
+  ⚡ Fun fact: **I debug with a cup of coffee by my side**
+  
+</div>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<h2 align="center">🚀 Technologies & Tools</h2>
 
-## Skills
-- Full Stack Web Development
-- Software Engineering
-- Problem Solving
-- Project Management
+<div align="center">
+  
+  ### Frontend  
+  <div>  
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </div>
 
-## Projects
-- **Personal Portfolio Website:** A responsive website showcasing my skills and projects.
-- **E-commerce Platform:** Developed an online shopping platform with user authentication and payment integration.
-- **AI Chatbot:** Built a chatbot using OpenAI APIs to assist users in navigating a website.
+  ### Backend  
+  <div>   
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </div>
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-1459&show_icons=true&theme=radical)
+  ### DSA & Tools
+  <div>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/DSA-%234EA94B.svg?style=for-the-badge&logo=dsalogo&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1459&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 GitHub Statistics</h2>
 
-## Contact
-Feel free to reach out to me for collaboration or just to connect!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-1459&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Vishal's Stats" /> 
+</div>
 
-- **Email:** vishalyadav.it26@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vishal-1459)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-1459&theme=radical&hide_border=true" />
+</div>
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-1459)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-1459)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1459&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-Looking forward to connecting with you! 👨‍💻
+<h2 align="center">👨‍💻 Coding Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-1459&theme=react-dark&hide_border=true" />
+</div>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vishal-1459" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:vishalyadav.it26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/9OJfcKHz4j/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <h3>👀 Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=vishal-1459&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
